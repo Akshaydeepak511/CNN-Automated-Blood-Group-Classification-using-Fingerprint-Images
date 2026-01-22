@@ -10,6 +10,10 @@ This project uses a Convolutional Neural Network (CNN) to classify ABO and Rh bl
 - Flask web app for uploading fingerprint images and getting predictions.
 - Includes `.h5` trained model for prediction.
 
+## Dataset 
+
+- https://drive.google.com/drive/folders/1Y5Sn2RvxMH3_K7TCicPCeZ5-ULv93wEf
+
 ## Project Structure
 
 ```
