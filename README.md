@@ -60,9 +60,9 @@ python app.py
 
 ## Contact
 
-Chinnagulagari Dinesh Kumar Reddy
-Email: [chinnagulagaridineshreddy@gmail.com](mailto:chinnagulagaridineshreddy@gmail.com)
-LinkedIn: [https://www.linkedin.com/in/dineshhreddy](https://www.linkedin.com/in/dineshhreddy)
+THAMMINENI MEDARA AKSHAY DEEPAK
+Email: [akshaydeepak511@gmail.com]
+
 
 ```
 ```
